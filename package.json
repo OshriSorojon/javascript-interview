@@ -1,0 +1,17 @@
+{
+  "name": "frontend-test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll --no-cache"
+  },
+  "author": "None",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/jest": "^29.0.0",
+    "jest": "^29.0.0",
+    "ts-jest": "^29.0.0",
+    "typescript": "^5.4.0"
+  }
+}
